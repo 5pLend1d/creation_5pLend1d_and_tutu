@@ -1,3 +1,4 @@
 {
-    "idf.currentSetup": "D:\\esp32\\v5.5.5\\esp-idf"
+    "idf.currentSetup": "D:\\esp32\\v5.5.5\\esp-idf",
+    "cmake.sourceDirectory": "D:/esp32s3project/git_Splend1d_and_tutu/desktop_block"
 }
